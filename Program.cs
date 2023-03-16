@@ -16,7 +16,7 @@ namespace PracticalList_3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Que13());
+            Application.Run(new Que8());
         }
     }
 }
