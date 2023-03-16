@@ -69,7 +69,6 @@ namespace PracticalList_3
             {
                 result = amount;
             }
-
             label2.Text = result.ToString();
         }
     }
